@@ -1,0 +1,22 @@
+2025-04-04 08:14:25.595965 - Received CBT.V508.FILE344.PDS from FILE344.XMI 
+2025-04-04 08:14:25.597064 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:14:25.597206 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/$$$DOC
+2025-04-04 08:14:25.597377 - Found @FILE344.txt (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/@FILE344
+2025-04-04 08:14:25.597508 - Found ADD.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/ADD
+2025-04-04 08:14:25.597631 - Found AWSEXTRA.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/AWSEXTRA
+2025-04-04 08:14:25.597766 - Found DELNOENQ.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/DELNOENQ
+2025-04-04 08:14:25.597914 - Found HLQINFO.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/HLQINFO
+2025-04-04 08:14:25.598143 - Found LDDDEF.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/LDDDEF
+2025-04-04 08:14:25.598278 - Found LISTVTOC.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/LISTVTOC
+2025-04-04 08:14:25.598399 - Found LZ.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/LZ
+2025-04-04 08:14:25.598679 - Found LZD.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/LZD
+2025-04-04 08:14:25.598804 - Found MACRORES.txt (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/MACRORES
+2025-04-04 08:14:25.598939 - Found MAN.jcl (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/MAN
+2025-04-04 08:14:25.599063 - Found OMVSSEG.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/OMVSSEG
+2025-04-04 08:14:25.599180 - Found SHOWDP.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/SHOWDP
+2025-04-04 08:14:25.599315 - Found SMPEWARN.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/SMPEWARN
+2025-04-04 08:14:25.599448 - Found TBDISP.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/TBDISP
+2025-04-04 08:14:25.599573 - Found TRACKS.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/TRACKS
+2025-04-04 08:14:25.599730 - Found VGET.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/VGET
+2025-04-04 08:14:25.599922 - Found VGETTAB.txt (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/VGETTAB
+2025-04-04 08:14:25.600069 - Found Y99.rexx (text/plain) in CBT.V508.FILE344.PDS, moved to PDS/Y99
